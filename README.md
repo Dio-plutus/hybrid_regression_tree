@@ -9,5 +9,4 @@ trend to turn into opposite or totally disappear. On the other hand, algorithms,
 linear relationships at all, could not achieve the best quality. HRT algorithm helps to solve
 both issues.
 
-In our project we reviewed main literature about HRT algorithm, implemented it and ap-
-plied for several datasets: PIK, StarSkill and Airfoil.
+In our project we reviewed main literature about HRT algorithm, implemented it and aЗplied for several datasets: PIK, StarSkill and Airfoil.
