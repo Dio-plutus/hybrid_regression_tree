@@ -1,6 +1,4 @@
-# hybrid_regression_tree
-
-Hybrid of Regression Trees & Linear Regression (HRT)
+# Hybrid of Regression Trees & Linear Regression (HRT)
 
 Hybrid of Regression Trees & Linear Regression algorithm was initially developed for such
 cases, where there are no perfect linear dependence between features and responses, but, how-
